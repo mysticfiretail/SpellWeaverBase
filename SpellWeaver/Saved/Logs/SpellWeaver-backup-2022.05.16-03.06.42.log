@@ -1,0 +1,1780 @@
+﻿Log file open, 05/15/22 22:56:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpellWeaver
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.770146
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX TITAN X
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.16-02.56.25:378][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.16-02.56.25:378][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:379][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.16-02.56.25:463][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.16-02.56.25:464][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.16-02.56.25:464][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.16-02.56.25:464][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.16-02.56.25:465][  0]LogHAL: Display: Platform has ~ 32 GB [34267762688 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.16-02.56.25:465][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.16-02.56.25:465][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.16-02.56.25:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.16-02.56.25:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Scalability.ini]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.16-02.56.25:467][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.16-02.56.25:468][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.16-02.56.25:468][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.16-02.56.25:468][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.16-02.56.25:468][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Engine.ini]
+[2022.05.16-02.56.25:468][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Config/Windows/Editor.ini]
+[2022.05.16-02.56.25:468][  0]LogInit: Computer: KITTY
+[2022.05.16-02.56.25:469][  0]LogInit: User: Catherine
+[2022.05.16-02.56.25:469][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.16-02.56.25:469][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.16-02.56.25:469][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.05.16-02.56.25:469][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.16-02.56.25:469][  0]LogMemory: Process Physical Memory: 145.69 MB used, 145.70 MB peak
+[2022.05.16-02.56.25:469][  0]LogMemory: Process Virtual Memory: 119.73 MB used, 119.73 MB peak
+[2022.05.16-02.56.25:469][  0]LogMemory: Physical Memory: 7880.65 MB used,  24799.64 MB free, 32680.29 MB total
+[2022.05.16-02.56.25:469][  0]LogMemory: Virtual Memory: 134188848.00 MB used,  28881.37 MB free, 134217728.00 MB total
+[2022.05.16-02.56.25:476][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.16-02.56.25:573][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.16-02.56.25:579][  0]LogInit: Using OS detected language (en-US).
+[2022.05.16-02.56.25:579][  0]LogInit: Using OS detected locale (en-US).
+[2022.05.16-02.56.25:597][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.05.16-02.56.25:992][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.16-02.56.26:021][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.16-02.56.26:068][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.16-02.56.26:068][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.16-02.56.28:259][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.16-02.56.28:264][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.16-02.56.28:264][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.16-02.56.28:264][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.16-02.56.28:264][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.16-02.56.28:355][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN X' (Feature Level 11_0)
+[2022.05.16-02.56.28:355][  0]LogD3D11RHI:       12238/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:       0/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX TITAN X
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     DeviceId    : 17c2
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     SubSysId    : 29903842
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     DedicatedVideoMemory : 12833390592 bytes
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     SharedSystemMemory : 17133881344 bytes
+[2022.05.16-02.56.28:360][  0]LogD3D11RHI:     AdapterLuid : 0 45293
+[2022.05.16-02.56.28:367][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.16-02.56.28:367][  0]LogD3D11RHI:     GPU DeviceId: 0x17c2 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.16-02.56.28:367][  0]LogWindows: EnumDisplayDevices:
+[2022.05.16-02.56.28:367][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN X' (P:0 D:1)
+[2022.05.16-02.56.28:367][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN X' (P:1 D:1)
+[2022.05.16-02.56.28:368][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2022.05.16-02.56.28:368][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2022.05.16-02.56.28:368][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.16-02.56.28:368][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN X
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.05.16-02.56.28:369][  0]LogRHI: Texture pool is 8567 MB (70% of 12238 MB)
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX TITAN X
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     DeviceId    : 17c2
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     SubSysId    : 29903842
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     DedicatedVideoMemory : 12833390592 bytes
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     SharedSystemMemory : 17133881344 bytes
+[2022.05.16-02.56.28:369][  0]LogD3D11RHI:     AdapterLuid : 0 45293
+[2022.05.16-02.56.28:430][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.16-02.56.28:431][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.16-02.56.28:431][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.16-02.56.28:465][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.16-02.56.28:529][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.16-02.56.29:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.16-02.56.29:044][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.16-02.56.29:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.16-02.56.29:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.16-02.56.29:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.16-02.56.29:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.16-02.56.29:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.16-02.56.29:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.16-02.56.29:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.16-02.56.29:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.16-02.56.29:140][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.16-02.56.29:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.16-02.56.29:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.16-02.56.29:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.16-02.56.29:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.16-02.56.29:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.16-02.56.29:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.16-02.56.29:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.16-02.56.29:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.16-02.56.29:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.16-02.56.29:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.16-02.56.29:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.16-02.56.29:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.16-02.56.29:267][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.16-02.56.29:284][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.16-02.56.29:382][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.16-02.56.29:506][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.16-02.56.29:508][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Intermediate/Shaders/WorkingDirectory/15280/).
+[2022.05.16-02.56.29:508][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Catherine/AppData/Local/Temp/UnrealShaderWorkingDir/433DB0AD49F49E6554736888C69A6541/'.
+[2022.05.16-02.56.29:509][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.16-02.56.29:509][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.16-02.56.29:509][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.16-02.56.32:522][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/Catherine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Catherine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.16-02.56.32:620][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.16-02.56.32:647][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.16-02.56.32:647][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.16-02.56.32:647][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.16-02.56.32:666][  0]LogDerivedDataCache: Speed tests for C:/Users/Catherine/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.05.16-02.56.32:666][  0]LogDerivedDataCache: Display: Performance to C:/Users/Catherine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=115.08MBs, RandomWriteSpeed=113.84MBs. Assigned SpeedClass 'Local'
+[2022.05.16-02.56.32:666][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Catherine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.16-02.56.32:667][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.16-02.56.32:667][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.16-02.56.32:723][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.16-02.56.32:738][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.16-02.56.32:784][  0]LogAssetRegistry: FAssetRegistry took 0.0069 seconds to start up
+[2022.05.16-02.56.33:179][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.16-02.56.33:179][  0]LogInit: Active device profile: [00000234B59B8F00][00000234AEBF1040 49] Windows
+[2022.05.16-02.56.33:179][  0]LogInit: Profiles: [00000234B59B8F00][00000234AEBF1040 49] Windows, [00000234B596E400][00000234AF3DF1C0 49] WindowsNoEditor, [00000234B59B9F00][00000234AF3E3340 49] WindowsServer, [00000234B596D600][00000234AF3E74C0 49] WindowsClient, [00000234B59B9000][00000234AF3EB640 49] IOS, [00000234B596FA00][00000234AF2D17C0 49] iPadAir, [00000234B59BB300][00000234AF2D5940 49] iPadAir2, [00000234B58F1300][00000234AF2DDC00 49] IPadPro, [00000234B58F1400][00000234AF2D80C0 49] iPadAir3, [00000234B596CB00][00000234AF8CC240 49] iPadAir4, [00000234B58F2100][00000234AF8D03C0 49] iPadMini2, [00000234B596F400][00000234AF8D4540 49] iPadMini3, [00000234B58F2C00][00000234AF8D86C0 49] iPadMini4, [00000234B596E700][00000234AF8DC840 49] iPadMini5, [00000234B5924E00][00000234AF8E4B00 49] iPhone6, [00000234B5924F00][00000234AF8E0B40 49] iPodTouch6, [00000234B59BA800][00000234AF8E8D80 49] iPhone7, [00000234B59BA900][00000234AEBF4DC0 49] iPodTouch7, [00000234B58F0C00][00000234AF8ECF00 49] iPhone5S, [00000234B59B9300][00000234AF2E1080 49] iPhone6Plus, [00000234B58F2A00][00000234AF2E5200 49] iPhone6S, [00000234B59BAD00][00000234AF2E9380 49] iPhone6SPlus, [00000234B5924100][00000234AF2ED500 49] iPhone7Plus, [00000234B58F1D00][00000234AF2F1680 49] iPhoneSE, [00000234B5924C00][00000234AF2F5800 49] iPhone8, [00000234B58F0400][00000234AF2F9980 49] iPhone8Plus, [00000234B5926A00][00000234AF2FDB00 49] iPhoneX, [00000234B58F3C00][00000234AF300100 49] iPhoneXS, [00000234B5926900][00000234AF304280 49] iPhoneXSMax, [00000234B58F0B00][00000234AF308400 49] iPhoneXR, [00000234B59BB800][00000234AF30C580 49] iPhone11, [00000234B58F3D00][00000234AF310700 49] iPhone11Pro, [00000234B59B9C00][00000234AF314880 49] iPhone11ProMax, [00000234B58F1100][00000234AF318A00 49] iPhoneSE2, [00000234B59B9200][00000234AF31CB80 49] iPhone12Mini, [00000234B58F3100][00000234AF320D00 49] iPhone12, [00000234B59B8900][00000234AF8F0E40 49] iPhone12Pro, [00000234B58F0D00][00000234AF324F80 49] iPhone12ProMax, [00000234B59BBC00][00000234B4E4D0C0 49] iPadPro105, [00000234B58F3700][00000234B4E55240 49] iPadPro129, [00000234B59BB000][00000234B4E593C0 49] iPadPro97, [00000234B58F0F00][00000234B4E5D540 49] iPadPro2_129, [00000234B59B8C00][00000234B4E616C0 49] iPad5, [00000234B58F3B00][00000234B4E65840 49] iPad6, [00000234B59B8400][00000234B4E699C0 49] iPad7, [00000234B58F3E00][00000234B4E6DB40 49] iPad8, [00000234B59B9B00][00000234B4E70140 49] iPadPro11, [00000234B58F2400][00000234B4E742C0 49] iPadPro2_11, [00000234B59B8800][00000234B4E78440 49] iPadPro3_129, [00000234B58F2800][00000234B4E7C5C0 49] iPadPro4_129, [00000234B59BAF00][00000234B4E80740 49] AppleTV, [00000234B58F1200][00000234B4E848C0 49] AppleTV4K, [00000234B59B9700][00000234B4E88A40 49] TVOS, [00000234B58F3600][00000234B4E8CBC0 49] Mac, [00000234B59BBA00][00000234B4E90D40 49] MacClient, [00000234B58F2500][00000234B4E94EC0 49] MacNoEditor, [00000234B59B8500][00000234B4E51000 49] MacServer, [00000234B58F2000][00000234B4E99140 49] Linux, [00000234B59BBB00][00000234B4E9D280 49] LinuxAArch64, [00000234B58F0300][00000234B4EA13C0 49] LinuxNoEditor, [00000234B59BB700][00000234B4EA9540 49] LinuxAArch64NoEditor, [00000234B58F2600][00000234B4EAD6C0 49] LinuxClient, [00000234B59BA600][00000234B4EB1840 49] LinuxAArch64Client, [00000234B58F1A00][00000234B4EB59C0 49] LinuxServer, [00000234B59B8200][00000234B4EB9B40 49] LinuxAArch64Server, [00000234B58F1600][00000234B4EBC140 49] Android, [00000234B59BA100][00000234B4EC02C0 49] Android_Low, [00000234B58F3800][00000234B4EC4440 49] Android_Mid, [00000234B59B8600][00000234B4EC85C0 49] Android_High, [00000234B58F2300][00000234B4ECC740 49] Android_Default, [00000234B59BA300][00000234B4ED08C0 49] Android_Adreno4xx, [00000234B58F3000][00000234B4ED4A40 49] Android_Adreno5xx_Low, [00000234B59BAA00][00000234B4ED8BC0 49] Android_Adreno5xx, [00000234B58F0100][00000234B4EDCD40 49] Android_Adreno6xx, [00000234B59B8B00][00000234B4EE0EC0 49] Android_Adreno6xx_Vulkan, [00000234B58F0A00][00000234B4EE5040 49] Android_Mali_T6xx, [00000234B59B8700][00000234B4EA5180 49] Android_Mali_T7xx, [00000234B596DA00][00000234B4EE92C0 49] Android_Mali_T8xx, [00000234B5924300][00000234B4EED400 49] Android_Mali_G71, [00000234B596C600][00000234B4EF1540 49] Android_Mali_G72, [00000234B5925200][00000234B4EF96C0 49] Android_Mali_G72_Vulkan, [00000234B596FE00][00000234B4EFD840 49] Android_Mali_G76, [00000234B5924700][00000234B4F019C0 49] Android_Mali_G76_Vulkan, [00000234B596FD00][00000234B4F05B40 49] Android_Mali_G77, [00000234B5927B00][00000234B4F08140 49] Android_Mali_G77_Vulkan, [00000234B596DB00][00000234B4F0C2C0 49] Android_Mali_G78, [00000234B5927100][00000234B4F10440 49] Android_Mali_G78_Vulkan, [00000234B596F900][00000234B4F145C0 49] Android_Mali_G710, [00000234B5926C00][00000234B4F18740 49] Android_Mali_G710_Vulkan, [00000234B596F600][00000234B4F1C8C0 49] Android_Vulkan_SM5, [00000234B5927800][00000234B4F20A40 49] Android_PowerVR_G6xxx, [00000234B596D900][00000234B4F24BC0 49] Android_PowerVR_GT7xxx, [00000234B5925D00][00000234B4F28D40 49] Android_PowerVR_GE8xxx, [00000234B596ED00][00000234B4F2CEC0 49] Android_PowerVR_GM9xxx, [00000234B5924800][00000234B4F31040 49] Android_PowerVR_GM9xxx_Vulkan, [00000234B596DC00][00000234B4F351C0 49] Android_TegraK1, [00000234B5925000][00000234B4F39340 49] Android_Unknown_Vulkan, [00000234B596E300][00000234B4EF5480 49] Lumin, [00000234B5927E00][00000234B4F3D5C0 49] Lumin_Desktop, [00000234B596EB00][00000234B5F51700 49] HoloLens, 
+[2022.05.16-02.56.33:498][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.16-02.56.33:498][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.16-02.56.33:498][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.16-02.56.33:498][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.16-02.56.33:499][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.16-02.56.33:567][  0]LogNetVersion: SpellWeaver 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1523647910)
+[2022.05.16-02.56.34:802][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.16-02.56.34:950][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.16-02.56.34:957][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.05.16-02.56.34:957][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.05.16-02.56.34:957][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.16-02.56.35:937][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A55DD0BC4AE831B96E429BACEE889D6B | Instance: 96B3A31D4E3CC8AD15C320B5A4765AE0 (KITTY-15280).
+[2022.05.16-02.56.36:044][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.16-02.56.36:053][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.16-02.56.36:080][  0]LogPython: Using Python 3.7.7
+[2022.05.16-02.56.37:227][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.37:227][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.37:243][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.37:250][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.37:267][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.37:272][  0]LogUProjectInfo: Found projects:
+[2022.05.16-02.56.37:824][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.16-02.56.37:868][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.16-02.56.37:904][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.16-02.56.37:904][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.16-02.56.38:324][  0]LogCollectionManager: Loaded 0 collections in 0.002644 seconds
+[2022.05.16-02.56.38:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/Collections/' took 0.00s
+[2022.05.16-02.56.38:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Content/Developers/Catherine/Collections/' took 0.00s
+[2022.05.16-02.56.38:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Content/Collections/' took 0.00s
+[2022.05.16-02.56.38:383][  0]LogOcInput: OculusInput pre-init called
+[2022.05.16-02.56.38:797][  0]LogEngine: Initializing Engine...
+[2022.05.16-02.56.38:847][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.16-02.56.38:848][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.16-02.56.38:848][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.16-02.56.38:850][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.05.16-02.56.39:215][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.16-02.56.39:245][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.16-02.56.39:249][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.16-02.56.39:255][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.16-02.56.39:259][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.16-02.56.39:260][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.16-02.56.39:260][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.16-02.56.39:261][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-02.56.39:261][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-02.56.39:262][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-02.56.39:262][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-02.56.39:262][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-02.56.39:262][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.16-02.56.39:300][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.16-02.56.39:300][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.16-02.56.39:328][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.05.16-02.56.39:329][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-02.56.39:349][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-02.56.39:350][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-02.56.39:351][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.16-02.56.39:352][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.16-02.56.39:352][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.16-02.56.39:353][  0]LogInit: FAudioDevice initialized.
+[2022.05.16-02.56.39:353][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.16-02.56.39:353][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.16-02.56.39:353][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.16-02.56.39:353][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.16-02.56.39:431][  0]LogDerivedDataCache: Saved boot cache 0.08s 94MB C:/Users/Catherine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.16-02.56.39:431][  0]LogInit: Texture streaming: Enabled
+[2022.05.16-02.56.39:452][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.05.16-02.56.39:459][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.16-02.56.39:459][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={9F9F012B-46EA-4E3F-3670-60AE6E167F0D}
+[2022.05.16-02.56.39:459][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.16-02.56.39:463][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.16-02.56.39:510][  0]LogInit: Transaction tracking system initialized
+[2022.05.16-02.56.39:557][  0]BlueprintLog: New page: Editor Load
+[2022.05.16-02.56.39:704][  0]LocalizationService: Localization service is disabled
+[2022.05.16-02.56.39:762][  0]TimingProfiler: Initialize
+[2022.05.16-02.56.39:763][  0]TimingProfiler: OnSessionChanged
+[2022.05.16-02.56.39:764][  0]LoadingProfiler: Initialize
+[2022.05.16-02.56.39:764][  0]LoadingProfiler: OnSessionChanged
+[2022.05.16-02.56.39:764][  0]NetworkingProfiler: Initialize
+[2022.05.16-02.56.39:765][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.16-02.56.39:765][  0]MemoryProfiler: Initialize
+[2022.05.16-02.56.39:765][  0]MemoryProfiler: OnSessionChanged
+[2022.05.16-02.56.40:265][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.16-02.56.40:265][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.16-02.56.40:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Content/' took 0.03s
+[2022.05.16-02.56.40:846][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.16-02.56.40:854][  0]SourceControl: Source control is disabled
+[2022.05.16-02.56.40:976][  0]LogSlate: Took 0.004842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.16-02.56.52:022][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.05.16-02.56.57:863][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2022.05.16-02.56.57:867][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/AbilitySystem/Ability_SourceStuff
+[2022.05.16-02.56.57:879][  0]LogUnrealEdMisc: Loading editor; pre map load, took 36.405
+[2022.05.16-02.56.57:880][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.16-02.56.57:893][  0]LightingResults: New page: Lighting Build
+[2022.05.16-02.56.57:899][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-02.56.57:900][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-02.56.57:902][  0]MapCheck: New page: Map Check
+[2022.05.16-02.56.57:902][  0]LightingResults: New page: Lighting Build
+[2022.05.16-02.56.57:914][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.16-02.56.57:919][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.05.16-02.57.08:817][  0]LogMaterial: Display: Missing cached shadermap for GrassBlades2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 07A18335A7E173079537A13FC1B457703BC4E540), compiling. 
+[2022.05.16-02.57.08:908][  0]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 33
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.05.16-02.57.09:856][  0]LogShaderCompilers: Display: Started 38 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.09:857][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.05.16-02.57.09:859][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.16-02.57.09:881][  0]LogMaterial: Display: Material /Game/Environment/Foliage/Alphas/tex/GroundFlower2_Mat.GroundFlower2_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.05.16-02.57.09:884][  0]LogMaterial: Display: Missing cached shadermap for GroundFlower2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9189CDD4D5C346983BD24253F0BDEA6A6574D5DE), compiling. 
+[2022.05.16-02.57.09:966][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 1
+[2022.05.16-02.57.09:966][  0]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2022.05.16-02.57.09:967][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.09:967][  0]MapCheck: Warning: GroundFlower2_Mat Material /Game/Environment/Foliage/Alphas/tex/GroundFlower2_Mat.GroundFlower2_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.05.16-02.57.09:967][  0]LogMaterial: Display: Material /Game/Environment/Foliage/Alphas/tex/GroundFlower4_Mat.GroundFlower4_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.05.16-02.57.09:970][  0]LogMaterial: Display: Missing cached shadermap for GroundFlower4_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B39D2A42FFDCABB94DBAFD555141D545173B3745), compiling. 
+[2022.05.16-02.57.10:060][  0]LogShaderCompilers: Display: Submitted 76 shader compile jobs with 'Low' priority
+[2022.05.16-02.57.10:060][  0]MapCheck: Warning: GroundFlower4_Mat Material /Game/Environment/Foliage/Alphas/tex/GroundFlower4_Mat.GroundFlower4_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.05.16-02.57.10:064][  0]LogMaterial: Display: Material /Game/Environment/Foliage/Alphas/tex/GrassBlades2_Mat.GrassBlades2_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.05.16-02.57.10:066][  0]LogMaterial: Display: Missing cached shadermap for GrassBlades2_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 71542E48DCDD5BDB47A494B56C32EAB651099D84), compiling. 
+[2022.05.16-02.57.10:147][  0]LogShaderCompilers: Display: Submitted 39 shader compile jobs with 'Low' priority
+[2022.05.16-02.57.10:148][  0]MapCheck: Warning: GrassBlades2_Mat Material /Game/Environment/Foliage/Alphas/tex/GrassBlades2_Mat.GrassBlades2_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 190
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 180
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 170
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:027][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 160
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 150
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 140
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 130
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 120
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 110
+[2022.05.16-02.57.14:028][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.14:064][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 100
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 90
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 80
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 71
+[2022.05.16-02.57.16:313][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.16:406][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.05.16-02.57.16:407][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.16-02.57.16:409][  0]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0.923ms to complete.
+[2022.05.16-02.57.16:415][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 18.534
+[2022.05.16-02.57.16:516][  0]LogUnrealEdMisc: Total Editor Startup Time, took 55.041
+[2022.05.16-02.57.16:821][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.57.16:838][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.57.16:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.57.16:871][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-02.57.16:926][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0242 seconds. Added 3822 classes and 928 folders.
+[2022.05.16-02.57.16:937][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.05.16-02.57.17:543][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.16-02.57.17:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.16-02.57.17:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.05.16-02.57.17:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.05.16-02.57.17:570][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.16-02.57.17:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.16-02.57.17:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:571][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.05.16-02.57.17:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.05.16-02.57.17:579][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.16-02.57.17:580][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:580][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.16-02.57.17:580][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:580][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.05.16-02.57.17:580][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.05.16-02.57.17:589][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.16-02.57.17:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.16-02.57.17:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.05.16-02.57.17:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2022.05.16-02.57.17:599][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.16-02.57.17:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.16-02.57.17:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.05.16-02.57.17:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.05.16-02.57.17:608][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.16-02.57.17:608][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:608][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.16-02.57.17:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:608][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.05.16-02.57.17:608][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.05.16-02.57.17:624][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.16-02.57.17:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.16-02.57.17:624][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:625][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.05.16-02.57.17:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.05.16-02.57.17:635][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 63
+[2022.05.16-02.57.17:635][  0]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.17:635][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.16-02.57.17:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.16-02.57.17:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:635][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.05.16-02.57.17:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000160
+[2022.05.16-02.57.17:877][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.16-02.57.17:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.16-02.57.17:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.05.16-02.57.17:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.05.16-02.57.17:892][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2022.05.16-02.57.17:892][  0]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.17:892][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.16-02.57.17:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.16-02.57.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.05.16-02.57.17:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.05.16-02.57.17:901][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.16-02.57.17:901][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:901][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.16-02.57.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:901][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.05.16-02.57.17:901][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2022.05.16-02.57.17:911][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.16-02.57.17:911][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:911][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.16-02.57.17:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:911][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.05.16-02.57.17:911][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.05.16-02.57.17:920][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.16-02.57.17:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.16-02.57.17:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.05.16-02.57.17:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.05.16-02.57.17:930][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.16-02.57.17:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.16-02.57.17:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.05.16-02.57.17:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2022.05.16-02.57.17:939][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.16-02.57.17:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.16-02.57.17:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.05.16-02.57.17:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.05.16-02.57.17:948][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.16-02.57.17:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.16-02.57.17:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.05.16-02.57.17:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.05.16-02.57.17:958][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.16-02.57.17:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.16-02.57.17:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.05.16-02.57.17:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.05.16-02.57.17:968][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.16-02.57.17:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.16-02.57.17:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:968][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.05.16-02.57.17:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000139
+[2022.05.16-02.57.17:984][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.16-02.57.17:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.17:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.16-02.57.17:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.17:984][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.05.16-02.57.17:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2022.05.16-02.57.18:004][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.16-02.57.18:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.16-02.57.18:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:004][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.05.16-02.57.18:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2022.05.16-02.57.18:037][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.16-02.57.18:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.16-02.57.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.05.16-02.57.18:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2022.05.16-02.57.18:047][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.16-02.57.18:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.16-02.57.18:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.05.16-02.57.18:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.05.16-02.57.18:057][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.16-02.57.18:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.16-02.57.18:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.05.16-02.57.18:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.05.16-02.57.18:068][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.16-02.57.18:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.16-02.57.18:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.05.16-02.57.18:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.05.16-02.57.18:078][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.16-02.57.18:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.16-02.57.18:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.05.16-02.57.18:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.05.16-02.57.18:088][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.16-02.57.18:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.16-02.57.18:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.16-02.57.18:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.16-02.57.18:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.05.16-02.57.18:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.05.16-02.57.18:635][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2022.05.16-02.57.18:635][  0]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.18:635][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2022.05.16-02.57.18:635][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.18:635][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.05.16-02.57.18:641][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.05.16-02.57.18:872][  0]LogSlate: Took 0.009573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.16-02.57.18:881][  0]LogSlate: Took 0.007010 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.16-02.57.19:138][  0]LogRenderer: Reallocating scene render targets to support 1164x624 Format 10 NumSamples 1 (Frame:1).
+[2022.05.16-02.57.19:325][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.05.16-02.57.19:325][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.16-02.57.19:325][  0]LogSlate: Took 0.016802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.16-02.57.19:447][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.05.16-02.57.19:447][  0]LogLoad: (Engine Initialization) Total time: 57.97 seconds
+[2022.05.16-02.57.19:447][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.16-02.57.19:564][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.16-02.57.19:753][  1]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.05.16-02.57.19:753][  1]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.16-02.57.19:885][  2]LogAssetRegistry: Asset discovery search completed in 47.1024 seconds
+[2022.05.16-02.57.19:952][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2022.05.16-02.57.20:333][  8]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.05.16-02.57.20:333][  8]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.16-02.57.20:604][ 14]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.16-02.57.21:601][ 42]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.05.16-02.57.21:601][ 42]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.16-02.57.21:601][ 42]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.05.16-02.57.21:602][ 42]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.05.16-02.57.21:638][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2022.05.16-02.57.21:638][ 43]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.21:919][ 53]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2022.05.16-02.57.21:919][ 53]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.22:152][ 62]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2022.05.16-02.57.22:152][ 62]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2022.05.16-02.57.22:152][ 62]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.22:367][ 72]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2022.05.16-02.57.22:367][ 72]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.22:560][ 80]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.05.16-02.57.22:560][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.22:634][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.05.16-02.57.22:634][ 83]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:071][ 97]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.05.16-02.57.23:071][ 97]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:226][103]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.05.16-02.57.23:226][103]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:305][105]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2022.05.16-02.57.23:305][105]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:762][124]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.05.16-02.57.23:762][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:762][124]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.05.16-02.57.23:762][124]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:825][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.05.16-02.57.23:825][126]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:917][129]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.05.16-02.57.23:918][129]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.23:949][130]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.05.16-02.57.23:949][130]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.05.16-02.57.47:255][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.05.16-02.57.48:019][521]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.05.16-02.57.49:133][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilitySystem/Projectiles/Fireball/Ability_Projectile_FireBall.Ability_Projectile_FireBall
+[2022.05.16-02.57.49:533][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilitySystem/Projectiles/ChaosBolt.ChaosBolt
+[2022.05.16-03.01.41:321][770]LogSlate: Took 0.005637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.16-03.02.26:563][952]BlueprintLog: New page: Compile ChaosBolt
+[2022.05.16-03.02.26:620][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.16-03.02.31:863][355]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.02.31:864][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.02.31:926][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AbilitySystem/Projectiles/ChaosBolt.ChaosBolt
+[2022.05.16-03.02.32:290][355]LogSlate: Took 0.004893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.16-03.03.27:820][ 41]BlueprintLog: New page: Compile ChaosBolt
+[2022.05.16-03.03.27:873][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.05.16-03.03.27:917][ 41]LogSlate: Took 0.006959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.16-03.03.35:663][598]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.16-03.03.35:674][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.16-03.03.35:676][598]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2022, 7:03:35 PM)
+[2022.05.16-03.03.35:677][598]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.16-03.03.35:678][598]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.16-03.03.35:678][598]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.16-03.03.36:453][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.774400s)
+[2022.05.16-03.03.36:454][598]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.16-03.03.36:455][598]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2022.05.16-03.03.36:455][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.776499s)
+[2022.05.16-03.03.36:487][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.16-03.03.36:488][598]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.16-03.03.36:488][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-03.03.36:488][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-03.03.36:489][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-03.03.36:489][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-03.03.36:489][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-03.03.36:489][598]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.16-03.03.36:496][598]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.16-03.03.36:496][598]LogAudioMixer: Display: 1: FrontRight
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.16-03.03.36:509][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.16-03.03.36:509][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.16-03.03.36:510][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.16-03.03.36:510][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.16-03.03.36:510][598]LogInit: FAudioDevice initialized.
+[2022.05.16-03.03.36:510][598]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.05.16-03.03.36:520][598]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.16-03.03.36:573][598]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.15-23.03.36
+[2022.05.16-03.03.36:582][598]LogWorld: Bringing up level for play took: 0.060764
+[2022.05.16-03.03.36:582][598]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.16-03.03.36:592][598]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.05.16-03.03.36:603][598]LogBlueprintUserMessages: [SpellBookUI] event constructedHello
+[2022.05.16-03.03.36:604][598]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.03.36:604][598]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.03.36:604][598]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.03.36:604][598]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.03.36:604][598]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.16-03.03.36:604][598]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.05.16-03.03.36:604][598]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.05.16-03.03.36:615][598]PIE: Server logged in
+[2022.05.16-03.03.36:616][598]PIE: Play in editor total start time 0.945 seconds.
+[2022.05.16-03.03.36:622][598]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.03.36:622][598]LogBlueprintUserMessages: [EnemyAI_C_2] See
+[2022.05.16-03.03.36:622][598]LogBlueprintUserMessages: [EnemyAI_C_5] See
+[2022.05.16-03.03.37:024][599]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:024][599]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:024][599]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:039][600]LogBlueprintUserMessages: [EnemyAI_C_3] See
+[2022.05.16-03.03.37:082][601]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:281][614]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:281][614]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:281][614]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:315][616]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:527][630]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:527][630]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:527][630]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:558][632]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:759][645]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:759][645]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:759][645]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:791][647]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:870][652]LogBlueprintUserMessages: [EnemyAI_C_0] See
+[2022.05.16-03.03.37:883][653]LogBlueprintUserMessages: [HeadsUpDisplay_C_0] valid
+[2022.05.16-03.03.37:886][653]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:993][660]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:993][660]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.37:993][660]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:024][662]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:130][669]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:160][671]LogBlueprintUserMessages: [EnemyAI_C_1] Cant see
+[2022.05.16-03.03.38:238][676]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:238][676]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:269][678]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:375][685]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:481][692]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:481][692]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:512][694]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:618][701]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:723][708]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:723][708]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:754][710]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:784][712]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.03.38:799][713]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:860][717]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:965][724]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:965][724]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.38:995][726]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:041][729]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:102][733]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:209][740]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:209][740]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:239][742]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:285][745]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:345][749]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:360][750]LogBlueprintUserMessages: [EnemyAI_C_3] Cant see
+[2022.05.16-03.03.39:453][756]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:453][756]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:527][761]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:589][765]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:696][772]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:696][772]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:725][774]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=234.94 Y=-98.16 Z=0.00 Location: X=22564.22 Y=36198.34 Z=190.95 Normal: X=0.13 Y=0.99 Z=0.00 PenetrationDepth:1.432 Actor:DeerBP_2 Component:CharacterMesh0 BoneName:Head (0 other events since notify)
+[2022.05.16-03.03.39:772][777]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:832][781]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:862][783]LogBlueprintUserMessages: [EnemyAI_C_0] Cant see
+[2022.05.16-03.03.39:938][788]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.39:938][788]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:012][793]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:179][804]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:179][804]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:255][809]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:269][810]LogCharacterMovement: Target_Parent10 is stuck and failed to move! Velocity: X=11.06 Y=19.94 Z=0.00 Location: X=21304.17 Y=35879.54 Z=190.81 Normal: X=-0.90 Y=-0.03 Z=0.43 PenetrationDepth:9.055 Actor:OgreNew2_5 Component:CharacterMesh0 BoneName:RightHandPinky1 (0 other events since notify)
+[2022.05.16-03.03.40:421][820]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:421][820]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:496][825]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:661][836]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:661][836]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:737][841]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=561.75 Y=-209.82 Z=0.00 Location: X=22564.22 Y=36198.34 Z=190.95 Normal: X=0.23 Y=0.97 Z=0.00 PenetrationDepth:1.563 Actor:DeerBP_2 Component:CharacterMesh0 BoneName:Head (66 other events since notify)
+[2022.05.16-03.03.40:738][841]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:906][852]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:906][852]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.40:982][857]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:138][867]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:138][867]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:152][868]LogBlueprintUserMessages: [HeadsUpDisplay_C_0] valid
+[2022.05.16-03.03.41:152][868]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.05.16-03.03.41:152][868]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.05.16-03.03.41:215][872]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:371][882]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:371][882]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:463][888]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:611][898]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:611][898]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:695][904]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:749][908]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=567.55 Y=-158.31 Z=0.00 Location: X=22564.22 Y=36198.34 Z=190.95 Normal: X=0.28 Y=0.96 Z=0.00 PenetrationDepth:0.244 Actor:DeerBP_2 Component:CharacterMesh0 BoneName:Head (66 other events since notify)
+[2022.05.16-03.03.41:840][914]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:840][914]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.41:938][920]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:080][929]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:080][929]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:175][935]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:314][944]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:314][944]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:407][950]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:545][959]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:545][959]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:652][966]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:758][973]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=571.95 Y=-181.31 Z=0.00 Location: X=22564.22 Y=36198.34 Z=190.95 Normal: X=0.28 Y=0.96 Z=0.00 PenetrationDepth:0.259 Actor:DeerBP_2 Component:CharacterMesh0 BoneName:Head (64 other events since notify)
+[2022.05.16-03.03.42:790][975]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:790][975]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.42:897][982]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:036][991]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:036][991]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:128][997]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:268][  6]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:268][  6]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:360][ 12]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:500][ 21]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:500][ 21]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:593][ 27]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:732][ 36]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:732][ 36]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:825][ 42]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:972][ 52]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.43:972][ 52]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:060][ 58]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:206][ 68]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:206][ 68]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:260][ 72]LogCharacterMovement: Target_Parent10 is stuck and failed to move! Velocity: X=0.12 Y=14.46 Z=0.00 Location: X=21270.29 Y=35774.44 Z=203.17 Normal: X=-0.75 Y=-0.67 Z=-0.00 PenetrationDepth:19.012 Actor:OgreNew2_5 Component:NODE_AddWidgetComponent-0 BoneName:None (8 other events since notify)
+[2022.05.16-03.03.44:292][ 74]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:438][ 84]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:438][ 84]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:524][ 90]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:669][100]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:669][100]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:755][106]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:898][116]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:898][116]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.44:985][122]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:128][132]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:128][132]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:128][132]LogBlueprintUserMessages: [EnemyAI_C_0] See
+[2022.05.16-03.03.45:143][133]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:214][138]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:359][148]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:359][148]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:373][149]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:444][154]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:589][164]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:589][164]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:603][165]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:676][170]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:822][180]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:822][180]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:838][181]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.45:919][186]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:053][194]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:053][194]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:070][195]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:160][201]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:295][210]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:295][210]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:311][211]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:400][217]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:532][226]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:532][226]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:546][227]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:635][233]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:767][242]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:767][242]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:781][243]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.46:870][249]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:001][258]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:001][258]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:016][259]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:105][265]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:237][274]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:237][274]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:253][275]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:340][281]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:472][290]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:472][290]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:488][291]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:574][297]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:707][306]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:707][306]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:722][307]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:811][313]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:942][322]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:942][322]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.47:956][323]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:046][329]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:180][338]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:180][338]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:195][339]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:283][345]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:416][354]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:416][354]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:429][355]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:516][361]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:645][370]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:645][370]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:659][371]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:746][377]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:875][386]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:875][386]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:889][387]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.48:988][394]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:109][402]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:110][402]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:125][403]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:221][409]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:344][417]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:344][417]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:359][418]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:467][425]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:590][433]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:590][433]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:606][434]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:713][441]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:837][449]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:837][449]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:837][449]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.49:959][457]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:083][465]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:083][465]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:083][465]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:206][473]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:313][480]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:313][480]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:313][480]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:453][489]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:545][495]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:545][495]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:545][495]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:698][505]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:791][511]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:791][511]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:791][511]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.50:944][521]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:021][526]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:021][526]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:021][526]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:081][530]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=7.00 Y=-2.87 Z=0.00 Location: X=22564.22 Y=36198.26 Z=190.95 Normal: X=0.96 Y=-0.27 Z=-0.00 PenetrationDepth:0.506 Actor:Target_Parent10 Component:NODE_AddWidgetComponent-0 BoneName:None (42 other events since notify)
+[2022.05.16-03.03.51:191][537]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:255][541]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:255][541]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:255][541]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:440][553]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:487][556]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:487][556]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:487][556]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:685][569]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:731][572]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:731][572]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:731][572]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:916][584]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:962][587]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:962][587]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:962][587]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.51:992][589]LogCharacterMovement: Goblin_3 is stuck and failed to move! Velocity: X=8.29 Y=3.30 Z=0.00 Location: X=22564.21 Y=35933.08 Z=190.95 Normal: X=0.87 Y=-0.50 Z=0.00 PenetrationDepth:0.802 Actor:Target_Parent10 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.05.16-03.03.52:084][595]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=141.16 Y=-70.33 Z=0.00 Location: X=22564.22 Y=36198.26 Z=190.95 Normal: X=0.99 Y=-0.16 Z=-0.00 PenetrationDepth:24.974 Actor:Target_Parent10 Component:NODE_AddWidgetComponent-0 BoneName:None (42 other events since notify)
+[2022.05.16-03.03.52:161][600]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:208][603]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:209][603]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:209][603]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:395][615]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:440][618]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:440][618]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:440][618]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:628][630]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:676][633]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:676][633]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:676][633]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:756][638]LogBlueprintUserMessages: [EnemyAI_C_2] Cant see
+[2022.05.16-03.03.52:866][645]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:916][648]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.52:916][648]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:011][654]LogCharacterMovement: Goblin_3 is stuck and failed to move! Velocity: X=42.52 Y=-3.44 Z=0.00 Location: X=22564.22 Y=35924.54 Z=190.95 Normal: X=0.72 Y=-0.69 Z=-0.00 PenetrationDepth:5.925 Actor:Target_Parent10 Component:CharacterMesh0 BoneName:hand_l (21 other events since notify)
+[2022.05.16-03.03.53:105][660]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:152][663]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:152][663]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:337][675]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:385][678]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:385][678]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:569][690]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:615][693]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:615][693]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:803][705]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:849][708]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:849][708]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.53:959][715]LogCharacterMovement: Target_Parent10 is stuck and failed to move! Velocity: X=43.15 Y=5.70 Z=0.00 Location: X=22519.05 Y=35984.55 Z=191.00 Normal: X=-0.76 Y=0.64 Z=0.04 PenetrationDepth:0.019 Actor:Goblin_3 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.05.16-03.03.54:020][719]LogCharacterMovement: Goblin_3 is stuck and failed to move! Velocity: X=373.16 Y=389.45 Z=0.00 Location: X=22564.22 Y=35924.54 Z=190.95 Normal: X=0.46 Y=-0.89 Z=-0.00 PenetrationDepth:6.857 Actor:Target_Parent10 Component:CharacterMesh0 BoneName:hand_l (64 other events since notify)
+[2022.05.16-03.03.54:038][720]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:083][723]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:083][723]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:269][735]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:315][738]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:316][738]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:500][750]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:546][753]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:546][753]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:732][765]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:779][768]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:779][768]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.54:970][780]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:018][783]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:018][783]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:033][784]LogCharacterMovement: Goblin_3 is stuck and failed to move! Velocity: X=515.39 Y=307.20 Z=0.00 Location: X=22564.22 Y=35924.54 Z=190.95 Normal: X=0.57 Y=-0.82 Z=-0.00 PenetrationDepth:6.313 Actor:Target_Parent10 Component:CharacterMesh0 BoneName:hand_l (64 other events since notify)
+[2022.05.16-03.03.55:207][795]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:254][798]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:254][798]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:301][801]LogCharacterMovement: Target_Parent10 is stuck and failed to move! Velocity: X=6.57 Y=4.61 Z=0.00 Location: X=22524.97 Y=35980.11 Z=191.08 Normal: X=-0.38 Y=0.92 Z=0.00 PenetrationDepth:1.261 Actor:Goblin_3 Component:CharacterMesh0 BoneName:RightArm (3 other events since notify)
+[2022.05.16-03.03.55:302][801]LogBlueprintUserMessages: [EnemyAI_C_5] Cant see
+[2022.05.16-03.03.55:444][810]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:492][813]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:677][825]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:725][828]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:909][840]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.55:957][843]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:146][855]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:194][858]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:308][865]LogCharacterMovement: Target_Parent10 is stuck and failed to move! Velocity: X=45.90 Y=28.27 Z=0.00 Location: X=22533.61 Y=35974.53 Z=191.08 Normal: X=0.79 Y=0.61 Z=0.00 PenetrationDepth:0.893 Actor:Target_Parent_2 Component:CharacterMesh0 BoneName:lowerarm_r (19 other events since notify)
+[2022.05.16-03.03.56:388][870]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:434][873]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:625][885]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:672][888]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:860][900]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.56:908][903]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:094][915]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:140][918]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:328][931]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:372][934]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:571][948]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:613][951]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:801][964]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.57:844][967]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:032][980]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:076][983]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:105][985]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.03.58:267][996]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:313][999]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:343][  1]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.03.58:499][ 11]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:741][ 27]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.58:987][ 43]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.59:226][ 59]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.59:470][ 75]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.59:704][ 90]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.03.59:938][105]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.00:179][121]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.00:413][137]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.00:649][153]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.00:840][166]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.00:884][169]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.01:046][180]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.01:075][182]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.01:118][185]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.01:351][201]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.01:588][217]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.01:818][233]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.02:050][249]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.02:282][265]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.02:516][281]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.02:749][297]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.02:980][313]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.03:218][329]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.03:388][341]LogBlueprintUserMessages: [ActionBarSlot_1] HUH
+[2022.05.16-03.04.03:389][341]LogScript: Warning: Accessed None trying to read property CurrentTarget
+	ExterminateTemp_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ExterminateTemp_C_0
+	Function /Game/AbilitySystem/Ability_SourceStuff.Ability_SourceStuff_C:ExecuteUbergraph_Ability_SourceStuff:0208
+[2022.05.16-03.04.03:389][341]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentTarget". Blueprint:  Ability_SourceStuff Function:  Execute Ubergraph Ability Source Stuff Graph:  EventGraph Node:  Set Beam Target Point
+[2022.05.16-03.04.03:449][345]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.03:688][361]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.03:921][377]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.04:154][393]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.04:391][409]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.04:628][425]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.04:861][441]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.05:093][457]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.05:180][463]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.05:326][473]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.05:383][477]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.05:413][479]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.05:557][489]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.05:790][505]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.06:025][521]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.06:260][537]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.06:497][553]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.06:734][569]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.06:970][585]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.07:204][601]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.07:438][617]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.07:671][633]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.07:907][649]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.08:143][665]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.08:381][681]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.08:618][697]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.08:853][713]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.09:089][729]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.09:323][745]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.09:556][761]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.09:793][777]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.09:929][786]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.10:032][793]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.10:138][800]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.10:169][802]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.10:275][809]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.10:320][812]LogBlueprintUserMessages: [EnemyAI_C_1] Cant see
+[2022.05.16-03.04.10:728][839]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.04.10:742][840]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.10:984][856]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:028][859]LogBlueprintUserMessages: [EnemyAI_C_0] Cant see
+[2022.05.16-03.04.11:043][860]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.11:074][862]LogBlueprintUserMessages: [EnemyAI_C_0] See
+[2022.05.16-03.04.11:224][872]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:254][874]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.11:254][874]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:269][875]LogBlueprintUserMessages: [EnemyAI_C_0] Cant see
+[2022.05.16-03.04.11:285][876]LogBlueprintUserMessages: [EnemyAI_C_0] See
+[2022.05.16-03.04.11:467][888]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:498][890]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:498][890]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.11:732][905]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.11:976][921]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.12:205][937]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.12:447][954]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.12:679][970]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.12:915][986]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.13:023][993]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.13:158][  2]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.13:233][  7]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.13:263][  9]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.13:399][ 18]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.13:637][ 34]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.13:878][ 50]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.14:112][ 65]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.14:347][ 80]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.14:584][ 95]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.14:827][111]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.15:069][127]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.15:312][143]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.15:557][159]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.15:788][174]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.15:927][183]LogBlueprintUserMessages: [EnemyAI_C_0] Cant see
+[2022.05.16-03.04.17:756][303]LogBlueprintUserMessages: [EnemyAI_C_2] See
+[2022.05.16-03.04.17:772][304]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.17:833][308]LogBlueprintUserMessages: [EnemyAI_C_3] See
+[2022.05.16-03.04.17:849][309]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:015][320]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:090][325]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:259][336]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:321][340]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:502][352]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:563][356]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:744][368]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.18:760][369]LogBlueprintUserMessages: [EnemyAI_C_3] Cant see
+[2022.05.16-03.04.18:895][378]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.18:987][384]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:019][386]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.19:108][392]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:140][394]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.19:172][396]LogBlueprintUserMessages: [EnemyAI_C_5] See
+[2022.05.16-03.04.19:188][397]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:228][400]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:261][402]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.19:352][408]LogBlueprintUserMessages: [EnemyAI_C_0] See
+[2022.05.16-03.04.19:368][409]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:428][413]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:598][424]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:660][428]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:839][439]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:901][443]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.19:902][443]LogBlueprintUserMessages: [EnemyAI_C_5] Cant see
+[2022.05.16-03.04.20:075][454]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.20:321][470]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.20:562][486]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.20:804][502]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.21:037][518]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.21:277][535]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.21:517][552]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.21:758][569]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.21:980][585]LogBlueprintUserMessages: [ActionBarSlot_1] HUH
+[2022.05.16-03.04.21:997][586]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:238][603]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:476][620]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:490][621]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:714][637]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:728][638]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:953][654]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.22:966][655]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:190][671]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:204][672]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:429][688]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:443][689]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:455][690]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=13.31 Y=-77.57 Z=0.00 Location: X=22564.22 Y=36236.11 Z=190.95 Normal: X=0.57 Y=0.82 Z=0.00 PenetrationDepth:4.095 Actor:Target_Parent10 Component:NODE_AddWidgetComponent-0 BoneName:None (26 other events since notify)
+[2022.05.16-03.04.23:669][705]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:683][706]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:910][722]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.23:925][723]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:142][739]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:168][741]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:372][756]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:403][758]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:608][771]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:638][773]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.04.24:639][773]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:654][774]LogCharacterMovement: Target_Parent_2 is stuck and failed to move! Velocity: X=12.58 Y=-39.66 Z=0.00 Location: X=22564.22 Y=36203.78 Z=190.95 Normal: X=1.00 Y=0.09 Z=0.00 PenetrationDepth:11.578 Actor:Target_Parent10 Component:NODE_AddWidgetComponent-0 BoneName:None (31 other events since notify)
+[2022.05.16-03.04.24:716][778]LogBlueprintUserMessages: [EnemyAI_C_2] Cant see
+[2022.05.16-03.04.24:840][786]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.24:872][788]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.04.25:007][797]LogBlueprintUserMessages: [EnemyAI_C_3] See
+[2022.05.16-03.04.25:022][798]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:263][814]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:497][830]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:602][837]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:734][846]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:839][853]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.25:973][862]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:078][869]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:224][879]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:312][885]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:459][895]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:549][901]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:692][911]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:781][917]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.26:927][927]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:016][933]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:161][943]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:250][949]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:309][953]LogBlueprintUserMessages: [EnemyAI_C_1] Cant see
+[2022.05.16-03.04.27:338][955]LogBlueprintUserMessages: [EnemyAI_C_3] Cant see
+[2022.05.16-03.04.27:410][960]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.04.27:484][965]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:719][981]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:955][997]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.27:998][  0]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:117][  8]LogBlueprintUserMessages: [EnemyAI_C_3] See
+[2022.05.16-03.04.28:132][  9]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:184][ 12]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:236][ 16]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:372][ 25]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:417][ 28]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:476][ 32]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:492][ 33]LogBlueprintUserMessages: [EnemyAI_C_3] Cant see
+[2022.05.16-03.04.28:658][ 44]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:719][ 48]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:900][ 60]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.28:961][ 64]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:143][ 76]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:203][ 80]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:386][ 92]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:446][ 96]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:627][108]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:688][112]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:871][124]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.29:930][128]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.30:115][143]LogBlueprintUserMessages: [EnemyAI_C_2] See
+[2022.05.16-03.04.30:143][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-03.04.30:143][143]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.16-03.04.30:146][143]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.04.30:152][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.04.30:162][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.16-03.04.30:171][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.04.30:225][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-03.04.30:230][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.16-03.04.30:232][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.16-03.04.30:278][143]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.05.16-03.04.30:410][144]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.16-03.04.37:659][650]LogSlate: Window 'Message Log' being destroyed
+[2022.05.16-03.04.37:663][650]LogSlate: Window 'Message Log' being destroyed
+[2022.05.16-03.04.58:414][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.16-03.04.58:423][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.16-03.04.58:424][ 14]PIE: New page: PIE session: ThirdPersonExampleMap (May 15, 2022, 7:04:58 PM)
+[2022.05.16-03.04.58:424][ 14]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.16-03.04.58:983][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.560084s)
+[2022.05.16-03.04.58:985][ 14]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.05.16-03.04.58:985][ 14]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2022.05.16-03.04.58:985][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.562020s)
+[2022.05.16-03.04.59:030][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.05.16-03.04.59:035][ 14]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.16-03.04.59:035][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.16-03.04.59:035][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.16-03.04.59:035][ 14]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.16-03.04.59:035][ 14]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.16-03.04.59:036][ 14]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.16-03.04.59:036][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.16-03.04.59:042][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.16-03.04.59:042][ 14]LogAudioMixer: Display: 1: FrontRight
+[2022.05.16-03.04.59:055][ 14]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2022.05.16-03.04.59:055][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.16-03.04.59:055][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.16-03.04.59:055][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.16-03.04.59:056][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.16-03.04.59:056][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.16-03.04.59:056][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.16-03.04.59:057][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.16-03.04.59:057][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.16-03.04.59:057][ 14]LogInit: FAudioDevice initialized.
+[2022.05.16-03.04.59:057][ 14]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.05.16-03.04.59:068][ 14]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.05.16-03.04.59:117][ 14]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.05.15-23.04.59
+[2022.05.16-03.04.59:121][ 14]LogWorld: Bringing up level for play took: 0.051886
+[2022.05.16-03.04.59:121][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.05.16-03.04.59:129][ 14]LogBlueprintUserMessages: [SpellBookUI] event constructedHello
+[2022.05.16-03.04.59:129][ 14]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.04.59:129][ 14]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.04.59:129][ 14]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.04.59:129][ 14]LogBlueprintUserMessages: [SpellBookUI] valid
+[2022.05.16-03.04.59:130][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.05.16-03.04.59:130][ 14]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.05.16-03.04.59:130][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.05.16-03.04.59:138][ 14]PIE: Server logged in
+[2022.05.16-03.04.59:139][ 14]PIE: Play in editor total start time 0.717 seconds.
+[2022.05.16-03.04.59:141][ 14]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.04.59:141][ 14]LogBlueprintUserMessages: [EnemyAI_C_2] See
+[2022.05.16-03.04.59:141][ 14]LogBlueprintUserMessages: [EnemyAI_C_5] See
+[2022.05.16-03.04.59:168][ 15]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:168][ 15]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:168][ 15]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:439][ 30]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:439][ 30]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:439][ 30]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:695][ 48]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:695][ 48]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:695][ 48]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:937][ 64]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:937][ 64]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.04.59:937][ 64]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:180][ 80]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:180][ 80]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:180][ 80]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:367][ 92]LogBlueprintUserMessages: [EnemyAI_C_1] Cant see
+[2022.05.16-03.05.00:411][ 95]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:412][ 95]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:487][100]LogBlueprintUserMessages: [EnemyAI_C_1] See
+[2022.05.16-03.05.00:502][101]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:654][111]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:654][111]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:744][117]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:895][127]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:895][127]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.00:986][133]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:138][143]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:138][143]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:227][149]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:379][159]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:379][159]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:469][165]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:623][175]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:623][175]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:713][181]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:866][191]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:866][191]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.01:958][197]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:097][206]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:098][206]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:207][213]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:333][221]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:333][221]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:363][223]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.05.02:363][223]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.05.02:452][229]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:570][237]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:570][237]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:598][239]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.05.02:599][239]LogBlueprintUserMessages: [MeleeAttack_C_2] ATTACKING!!!
+[2022.05.16-03.05.02:687][245]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.02:919][261]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.03:152][277]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.03:282][286]LogBlueprintUserMessages: [ActionBarSlot] HUH
+[2022.05.16-03.05.03:389][293]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.03:495][300]LogCharacterMovement: Goblin_3 is stuck and failed to move! Velocity: X=10.41 Y=-22.81 Z=0.00 Location: X=22564.21 Y=36040.84 Z=190.95 Normal: X=0.37 Y=-0.93 Z=-0.00 PenetrationDepth:0.618 Actor:Target_Parent_2 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2022.05.16-03.05.03:635][309]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.03:742][316]LogBlueprintUserMessages: [Goblin_3] Hello
+[2022.05.16-03.05.03:742][316]LogBlueprintUserMessages: [Goblin_3] Hello
+[2022.05.16-03.05.03:742][316]LogBlueprintUserMessages: [Goblin_3] Hello
+[2022.05.16-03.05.03:743][316]LogBlueprintUserMessages: [Goblin_3] Hello
+[2022.05.16-03.05.03:743][316]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	IsPLayerinAttackRangee_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyAI_C_5.BTComponent.IsPLayerinAttackRangee_C_0
+	Function /Game/EnemyAI/IsPLayerinAttackRangee.IsPLayerinAttackRangee_C:ExecuteUbergraph_IsPLayerinAttackRangee:0042
+[2022.05.16-03.05.03:743][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  IsPLayerinAttackRangee Function:  Execute Ubergraph Is PLayerin Attack Rangee Graph:  EventGraph Node:  Set Blackboard Value as Bool
+[2022.05.16-03.05.03:743][316]LogScript: Warning: Accessed None trying to read property K2Node_Event_ControlledPawn
+	IsPLayerinAttackRangee_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.EnemyAI_C_5.BTComponent.IsPLayerinAttackRangee_C_0
+	Function /Game/EnemyAI/IsPLayerinAttackRangee.IsPLayerinAttackRangee_C:ExecuteUbergraph_IsPLayerinAttackRangee:00DC
+[2022.05.16-03.05.03:743][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_Event_ControlledPawn". Blueprint:  IsPLayerinAttackRangee Function:  Execute Ubergraph Is PLayerin Attack Rangee Graph:  EventGraph Node:  Branch
+[2022.05.16-03.05.03:743][316]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.05.03:879][325]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.04:119][341]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.04:359][357]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.04:601][373]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.04:840][389]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.05:078][405]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.05:322][419]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.05:569][435]LogBlueprintUserMessages: [NEWfindplayerloc_C_1] found player location
+[2022.05.16-03.05.05:804][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-03.05.05:804][450]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.05.16-03.05.05:806][450]LogBlueprintUserMessages: [IsPLayerinAttackRangee_C_0] in range
+[2022.05.16-03.05.05:806][450]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.16-03.05.05:813][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.05.05:823][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.16-03.05.05:833][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.16-03.05.05:869][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.16-03.05.05:869][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.16-03.05.05:869][450]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.16-03.05.05:908][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.16-03.05.06:026][451]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.16-03.05.09:115][618]LogSlate: Window 'Message Log' being destroyed
+[2022.05.16-03.05.09:118][618]LogSlate: Window 'Message Log' being destroyed
+[2022.05.16-03.05.20:403][353]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2022.05.16-03.05.21:007][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.05.16-03.05.21:051][386]LogSavePackage: Moving '../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Saved/ChaosBolt2720CB02426EB24A2B57658CE631B46A.tmp' to '../../../../../../Users/Catherine/Desktop/SpellWeaverBase/SpellWeaver/Content/AbilitySystem/Projectiles/ChaosBolt.uasset'
+[2022.05.16-03.05.21:067][386]AssetCheck: New page: Asset Save: ChaosBolt
+[2022.05.16-03.05.21:067][386]LogContentValidation: Display: Validating Blueprint /Game/AbilitySystem/Projectiles/ChaosBolt.ChaosBolt
+[2022.05.16-03.06.37:777][841]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.05.16-03.06.42:608][134]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.05.16-03.06.42:728][134]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
